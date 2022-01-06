@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @parthi1109git
+- 👀 I’m interested in JavaScript
+- 🌱 I’m currently learning NodeJS
+- 📫 Drop in a text: parthibansundaram97@gmail.com
